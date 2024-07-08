@@ -1,0 +1,1 @@
+class KJsonParserError(message: String) : RuntimeException(message)
